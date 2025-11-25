@@ -25,7 +25,7 @@ Nenhuma configuração especial é necessária.
 
 Faça o download ou clone o repositório
 
-git clone https://github.com/seu-repositorio/odonto-health.git
+git clone (https://github.com/bianncamilani/OdontoHealth.git)
 
 Abra o projeto na IDE de sua preferência (IntelliJ, Eclipse, NetBeans etc.)
 
